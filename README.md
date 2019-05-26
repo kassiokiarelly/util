@@ -1,1 +1,3 @@
 # util
+
+Some usefull methods
